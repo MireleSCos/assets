@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Sul-Sans-Regular';
+  src: url('https://github.com/MireleSCos/assets/blob/main/Sul%20Sans%20Regular.ttf?raw=true')
+    format('tff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sul-Sans-Bold';
+  src: url('https://github.com/MireleSCos/assets/blob/main/Sul%20Sans%20Bold.otf?raw=true')
+    format('otf');
+  font-weight: bold;
+  font-style: normal;
+}
